@@ -1,0 +1,12 @@
+Fotos reales ya incorporadas al sitio:
+
+- chuleton-brasa.webp     -> Hero (portada)
+- interior-comedor.jpg    -> Sección "Nuestra historia"
+- carne-piedra-plato.webp -> Fondo de la sección "La brasa y la piedra"
+- carne-piedra-cocinando.webp -> Galería
+- boquerones-cogollos.webp    -> Galería
+- postres-caseros.webp        -> Galería
+- og-image.jpg (1200x630, generada a partir del chuletón) -> vista previa al compartir en WhatsApp/redes
+- favicon.svg -> monograma "MC"
+
+Si quieres sustituir cualquiera de estas fotos por otras mejores, guarda la nueva imagen con el mismo nombre de archivo (o actualiza la ruta en index.html) y listo.
